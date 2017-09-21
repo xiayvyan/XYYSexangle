@@ -1,0 +1,2 @@
+# XYYSexangle
+通过UIBezierPath画六边形，并利用CAKeyframeAnimation添加动画轨迹
